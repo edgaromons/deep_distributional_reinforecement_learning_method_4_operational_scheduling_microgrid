@@ -1,0 +1,11 @@
+PyVirtualDisplay==3.0
+tianshou
+gymnasium==0.28.1
+gurobipy
+pandas
+matplotlib
+seaborn
+torch
+pickle
+tqdm
+scipy
